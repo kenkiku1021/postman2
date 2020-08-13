@@ -1,5 +1,0 @@
-db_driver: postgres
-db_host: localhost
-db_name: postman2
-db_user: postman2
-db_password: postman2
